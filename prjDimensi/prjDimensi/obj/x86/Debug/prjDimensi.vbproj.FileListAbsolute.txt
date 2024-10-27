@@ -1,0 +1,56 @@
+D:\11524010\soource\prjDimensi\prjDimensi\bin\Debug\prjDimensi.exe
+D:\11524010\soource\prjDimensi\prjDimensi\bin\Debug\prjDimensi.pdb
+D:\11524010\soource\prjDimensi\prjDimensi\bin\Debug\prjDimensi.xml
+D:\11524010\soource\prjDimensi\prjDimensi\obj\x86\Debug\prjDimensi.Form1.resources
+D:\11524010\soource\prjDimensi\prjDimensi\obj\x86\Debug\prjDimensi.Form2.resources
+D:\11524010\soource\prjDimensi\prjDimensi\obj\x86\Debug\prjDimensi.Resources.resources
+D:\11524010\soource\prjDimensi\prjDimensi\obj\x86\Debug\prjDimensi.vbproj.GenerateResource.Cache
+D:\11524010\soource\prjDimensi\prjDimensi\obj\x86\Debug\prjDimensi.exe
+D:\11524010\soource\prjDimensi\prjDimensi\obj\x86\Debug\prjDimensi.xml
+D:\11524010\soource\prjDimensi\prjDimensi\obj\x86\Debug\prjDimensi.pdb
+D:\11524008\Sources\prjdimensi baru\prjDimensi\prjDimensi\obj\x86\Debug\prjDimensi.exe
+D:\11524008\Sources\prjdimensi baru\prjDimensi\prjDimensi\obj\x86\Debug\prjDimensi.xml
+D:\11524008\Sources\prjdimensi baru\prjDimensi\prjDimensi\obj\x86\Debug\prjDimensi.pdb
+D:\11524008\Sources\prjdimensi baru\prjDimensi\prjDimensi\bin\Debug\prjDimensi.exe
+D:\11524008\Sources\prjdimensi baru\prjDimensi\prjDimensi\bin\Debug\prjDimensi.pdb
+D:\11524008\Sources\prjdimensi baru\prjDimensi\prjDimensi\bin\Debug\prjDimensi.xml
+D:\11524008\Sources\prjdimensi baru\prjDimensi\prjDimensi\obj\x86\Debug\prjDimensi.Form1.resources
+D:\11524008\Sources\prjdimensi baru\prjDimensi\prjDimensi\obj\x86\Debug\prjDimensi.Form2.resources
+D:\11524008\Sources\prjdimensi baru\prjDimensi\prjDimensi\obj\x86\Debug\prjDimensi.Resources.resources
+D:\11524008\Sources\prjdimensi baru\prjDimensi\prjDimensi\obj\x86\Debug\prjDimensi.vbproj.GenerateResource.Cache
+D:\11524008\Sources\prjdimensi baru\prjDimensi\prjDimensi\obj\x86\Debug\prjDimensi.Form3.resources
+C:\Users\MyBook Hype\Downloads\MATERI KOMPUTER\prjdimensi_pluscicilan\prjDimensi\prjDimensi\obj\x86\Debug\prjDimensi.exe
+C:\Users\MyBook Hype\Downloads\MATERI KOMPUTER\prjdimensi_pluscicilan\prjDimensi\prjDimensi\obj\x86\Debug\prjDimensi.xml
+C:\Users\MyBook Hype\Downloads\MATERI KOMPUTER\prjdimensi_pluscicilan\prjDimensi\prjDimensi\obj\x86\Debug\prjDimensi.pdb
+C:\Users\MyBook Hype\Downloads\MATERI KOMPUTER\prjdimensi_pluscicilan\prjDimensi\prjDimensi\bin\Debug\prjDimensi.exe
+C:\Users\MyBook Hype\Downloads\MATERI KOMPUTER\prjdimensi_pluscicilan\prjDimensi\prjDimensi\bin\Debug\prjDimensi.pdb
+C:\Users\MyBook Hype\Downloads\MATERI KOMPUTER\prjdimensi_pluscicilan\prjDimensi\prjDimensi\bin\Debug\prjDimensi.xml
+C:\Users\MyBook Hype\Downloads\MATERI KOMPUTER\prjdimensi_pluscicilan\prjDimensi\prjDimensi\obj\x86\Debug\prjDimensi.Form1.resources
+C:\Users\MyBook Hype\Downloads\MATERI KOMPUTER\prjdimensi_pluscicilan\prjDimensi\prjDimensi\obj\x86\Debug\prjDimensi.Form2.resources
+C:\Users\MyBook Hype\Downloads\MATERI KOMPUTER\prjdimensi_pluscicilan\prjDimensi\prjDimensi\obj\x86\Debug\prjDimensi.Form3.resources
+C:\Users\MyBook Hype\Downloads\MATERI KOMPUTER\prjdimensi_pluscicilan\prjDimensi\prjDimensi\obj\x86\Debug\prjDimensi.Resources.resources
+C:\Users\MyBook Hype\Downloads\MATERI KOMPUTER\prjdimensi_pluscicilan\prjDimensi\prjDimensi\obj\x86\Debug\prjDimensi.vbproj.GenerateResource.Cache
+C:\Users\MyBook Hype\Downloads\MATERI KOMPUTER\prjDimensi\prjDimensi\prjDimensi\obj\x86\Debug\prjDimensi.exe
+C:\Users\MyBook Hype\Downloads\MATERI KOMPUTER\prjDimensi\prjDimensi\prjDimensi\obj\x86\Debug\prjDimensi.xml
+C:\Users\MyBook Hype\Downloads\MATERI KOMPUTER\prjDimensi\prjDimensi\prjDimensi\obj\x86\Debug\prjDimensi.pdb
+C:\Users\MyBook Hype\Downloads\MATERI KOMPUTER\prjDimensi\prjDimensi\prjDimensi\bin\Debug\prjDimensi.exe
+C:\Users\MyBook Hype\Downloads\MATERI KOMPUTER\prjDimensi\prjDimensi\prjDimensi\bin\Debug\prjDimensi.pdb
+C:\Users\MyBook Hype\Downloads\MATERI KOMPUTER\prjDimensi\prjDimensi\prjDimensi\bin\Debug\prjDimensi.xml
+C:\Users\MyBook Hype\Downloads\MATERI KOMPUTER\prjDimensi\prjDimensi\prjDimensi\obj\x86\Debug\prjDimensi.Form1.resources
+C:\Users\MyBook Hype\Downloads\MATERI KOMPUTER\prjDimensi\prjDimensi\prjDimensi\obj\x86\Debug\prjDimensi.Form2.resources
+C:\Users\MyBook Hype\Downloads\MATERI KOMPUTER\prjDimensi\prjDimensi\prjDimensi\obj\x86\Debug\prjDimensi.Form3.resources
+C:\Users\MyBook Hype\Downloads\MATERI KOMPUTER\prjDimensi\prjDimensi\prjDimensi\obj\x86\Debug\prjDimensi.Form4.resources
+C:\Users\MyBook Hype\Downloads\MATERI KOMPUTER\prjDimensi\prjDimensi\prjDimensi\obj\x86\Debug\prjDimensi.Resources.resources
+C:\Users\MyBook Hype\Downloads\MATERI KOMPUTER\prjDimensi\prjDimensi\prjDimensi\obj\x86\Debug\prjDimensi.vbproj.GenerateResource.Cache
+C:\Users\HP\Documents\parking\prjDimensi\prjDimensi\prjDimensi\bin\Debug\prjDimensi.exe
+C:\Users\HP\Documents\parking\prjDimensi\prjDimensi\prjDimensi\bin\Debug\prjDimensi.pdb
+C:\Users\HP\Documents\parking\prjDimensi\prjDimensi\prjDimensi\bin\Debug\prjDimensi.xml
+C:\Users\HP\Documents\parking\prjDimensi\prjDimensi\prjDimensi\obj\x86\Debug\prjDimensi.Form1.resources
+C:\Users\HP\Documents\parking\prjDimensi\prjDimensi\prjDimensi\obj\x86\Debug\prjDimensi.Form2.resources
+C:\Users\HP\Documents\parking\prjDimensi\prjDimensi\prjDimensi\obj\x86\Debug\prjDimensi.Form3.resources
+C:\Users\HP\Documents\parking\prjDimensi\prjDimensi\prjDimensi\obj\x86\Debug\prjDimensi.Form4.resources
+C:\Users\HP\Documents\parking\prjDimensi\prjDimensi\prjDimensi\obj\x86\Debug\prjDimensi.Resources.resources
+C:\Users\HP\Documents\parking\prjDimensi\prjDimensi\prjDimensi\obj\x86\Debug\prjDimensi.vbproj.GenerateResource.Cache
+C:\Users\HP\Documents\parking\prjDimensi\prjDimensi\prjDimensi\obj\x86\Debug\prjDimensi.exe
+C:\Users\HP\Documents\parking\prjDimensi\prjDimensi\prjDimensi\obj\x86\Debug\prjDimensi.xml
+C:\Users\HP\Documents\parking\prjDimensi\prjDimensi\prjDimensi\obj\x86\Debug\prjDimensi.pdb
